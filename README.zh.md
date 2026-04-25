@@ -1,4 +1,4 @@
-<img width="815" height="594" alt="iShot Pro 2026-04-23 00 13 27" src="https://github.com/user-attachments/assets/6cfd2698-5ae5-4c13-b977-d51b770e3eae" /># OpenVWM
+# OpenVWM
 &emsp;&emsp;开源虚拟无线控制器<br>
 &emsp;&emsp;Open Virtual Wireless Manager<br>
 
