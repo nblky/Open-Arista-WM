@@ -9,13 +9,13 @@ I have an addiction to picking up "e-waste." One day in August 2024, I ordered a
 
 
 ## Project Statement:
-!!! This project is strictly for learning/research purposes on the communication principles between various APs and wireless controllers !!!
-!!! This project shall not be used for commercial purposes !!!
-!!! This project does not provide paid customizations for commercial use !!!
-!!! If you violate these terms and use the project improperly, you bear all consequences; this project (and its author) assumes no responsibility !!!
-
-1. The entire code is written by AI, implementing only some key functions, with corresponding scripts.
-2. Need a UI expert for front-end adaptation (the AI is already overwhelmed).
+!!! This project is strictly for learning/research purposes on the communication principles between various APs and wireless controllers !!!<br>
+!!! This project shall not be used for commercial purposes !!!<br>
+!!! This project does not provide paid customizations for commercial use !!!<br>
+!!! If you violate these terms and use the project improperly, you bear all consequences; this project (and its author) assumes no responsibility !!!<br>
+<br>
+1. The entire code is written by AI, implementing only some key functions, with corresponding scripts.<br>
+2. Need a UI expert for front-end adaptation (the AI is already overwhelmed).<br>
 
 ## Overall Project Plan:
 Adapt wireless controllers from some manufacturers on the market (possibly only Arista for now).
