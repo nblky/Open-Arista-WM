@@ -1,32 +1,9 @@
-# OpenVWM
-Open Virtual Wireless Manager
-<br>README.md Translated by DeepSeek
-## Name Origin:
-H3C's wireless controller is called AC, and their virtualized wireless controller is called VAC. Hence, the project is named OpenVWM.  
-
-## Project Origin:
-I have an addiction to picking up "e-waste." One day in August 2024, I ordered a discontinued surveillance product on Taobao, and it ended up sitting there for over a year. Since I was unemployed and bored at home after quitting my job, I started tinkering with that camera. With the help of buyer reviews in the product link and AI, I successfully "resurrected" the device's service. After that project ended, I remembered the Arista AP that had been lying in the corner of my home for over six months (because Arista's AP doesn't have a fat/thin integration mode like Aruba's; it can only be managed by its own CVP/CV-CUE). So I thought I'd give it a try with AI to see if I could build my own wireless control platform. 
-
-
-## Project Statement:
-!!! This project is strictly for learning/research purposes on the communication principles between various APs and wireless controllers !!!<br>
-!!! This project shall not be used for commercial purposes !!!<br>
-!!! This project does not provide paid customizations for commercial use !!!<br>
-!!! If you violate these terms and use the project improperly, you bear all consequences; this project (and its author) assumes no responsibility !!!<br>
-<br>
-1. The entire code is written by AI, implementing only some key functions, with corresponding scripts.<br>
-2. Need a UI expert for front-end adaptation (the AI is already overwhelmed).<br>
-
-## Overall Project Plan:
-Adapt wireless controllers from some manufacturers on the market (possibly only Arista for now).
-<br>
-## Project Progress / Adaptation Status:
-&emsp;Initial adaptation for Arista APs is complete; a UI expert is urgently needed.<br>
-&emsp;Looking for any official AP upgrade packages from manufacturers.<br>
-&emsp;
-
-Arista AP models:<br>
-Device versions 12, 13, 16<br>
+# Open-Arista-WM
+A simple personal-use Arista AP wireless management
+<br>Join Discord, let's develop together
+<br>https://discord.gg/nz3s7aHa
+<br>Arista AP models:<br>
+Device versions 12, 13, 16, 18<br>
 &emsp;WiFi 6E and below products &emsp;✅<br>
 &emsp;WiFi 7 &emsp;❌<br>
 
