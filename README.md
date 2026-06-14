@@ -24,6 +24,7 @@ server discovery method ipdns pri primary.server.local sec backup.server.local
 #eg3:
 server discovery method id pri 12345
 ```
+<img width="818" height="432" alt="image" src="https://github.com/user-attachments/assets/e6f6fd91-25fc-4ef7-a7d1-5b8e45fd5eeb" />
 
 <br>
 Features implemented:<br>
