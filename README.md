@@ -1,7 +1,7 @@
 # Open-Arista-WM
 A simple personal-use Arista AP wireless management
 <br>Arista AP models:<br>
-Device versions 12+ (mabye)
+Device versions 12+ (maybe)
 ## Set Your Server IP/IPDNS
 ```
 [config]$ help server discovery
